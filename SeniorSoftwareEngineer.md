@@ -18,8 +18,8 @@ At L4, we’re building for the long term. Counterfactual is essential infrastru
 
 ## The problems you’ll be working on
 
-*Translating bleeding-edge research on consensus mechanisms into developer friendly APIs and tooling for use in production-quality decentralized applications. More than just functional, these will have to be robust, simple, and extensible.
-*Implementing techniques for general state channel modules to be incorporated in the design of web, mobile, and hardware wallets.
-*Coordinating with the blockchain community to design, propose, and adopt interoperable standards across blockchains for state channel designs.
+* Translating bleeding-edge research on consensus mechanisms into developer friendly APIs and tooling for use in production-quality decentralized applications. More than just functional, these will have to be robust, simple, and extensible.
+* Implementing techniques for general state channel modules to be incorporated in the design of web, mobile, and hardware wallets.
+* Coordinating with the blockchain community to design, propose, and adopt interoperable standards across blockchains for state channel designs.
 
 **Interested?** Get in touch at jobs@l4v.io
