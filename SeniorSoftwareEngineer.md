@@ -1,4 +1,4 @@
-##Senior Software Engineer
+## Senior Software Engineer
 
 **Ethereum needs scaling solutions.** At L4, you’re going to help build them.
 
@@ -6,7 +6,7 @@ We’re looking for a Senior Software Engineer to work on [Counterfactual](http:
 
 At L4, we’re building for the long term. Counterfactual is essential infrastructure for the decentralized internet. We’re here to write code that will be used by billions of people and applications, supporting a new open-source financial system built on ethereum. If you want to join us on that journey, get in touch. 
 
-##About you:
+## About you:
 
 **You’re intellectually curious.** Every day we are working on creative solutions to difficult problems in a new interdisciplinary field. Our team is motivated not just by building great things, but by discovering new ideas and pushing the state of the art forward.
 
@@ -16,7 +16,7 @@ At L4, we’re building for the long term. Counterfactual is essential infrastru
 
 **You’re passionate about defining standards and building great APIs.** At L4, you will create the open-source abstractions that will help thousands of developers integrate state channels into their applications.
 
-##The problems you’ll be working on
+## The problems you’ll be working on
 
 *Translating bleeding-edge research on consensus mechanisms into developer friendly APIs and tooling for use in production-quality decentralized applications. More than just functional, these will have to be robust, simple, and extensible.
 *Implementing techniques for general state channel modules to be incorporated in the design of web, mobile, and hardware wallets.
